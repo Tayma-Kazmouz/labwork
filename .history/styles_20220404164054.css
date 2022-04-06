@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(107, 93, 96);
+}
+
+.banner{
+    background-image: url(images/banner.jpg);
+    height: 400px;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    background-color: rgb(228, 228, 208);
+    border-radius: 10px;  
+    width: auto;
+    position: absolute;
+    margin: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+h1{
+    color: white;
+    font-weight: 600px;
+    font-size: 30px;
+    margin-bottom: 0;
+    margin-left: 3%;
+}
+
+.container-one{
+    background-color: white;
+}
